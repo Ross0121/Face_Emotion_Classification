@@ -14,3 +14,20 @@ movies into genres from trailers, we can also use it to aggression or angry reac
 
 # Instruction to run
 Download the dataset from the above source and set the path of training data set to train_dir and testing data to test_dir in cell 2. 
+
+# Examples from dataset
+![PrivateTest_1623042](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/b3f15d3a-27e5-45d9-be53-537fb323d9e4)
+class=angry
+![PrivateTest_3929526](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/b356f8d2-f544-4860-8bb0-5baf53efdb15)
+class=disgust
+![PrivateTest_134207](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/a4891f9f-c0ca-4364-a5c1-fb37eb9a2d5d)
+class=fear
+![PrivateTest_1140198](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/53b790a7-2fc1-4456-96ca-7adb9b97a987)
+class=happy
+![PrivateTest_1129340](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/174978a0-6381-4171-8910-1addc151bca2)
+class=neutral
+![PrivateTest_552501](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/f7b15ab7-7adf-4cce-b027-a35fbb81a886)
+class=sad
+![PrivateTest_914251](https://github.com/Ross0121/Face_Emotion_Classification/assets/74859623/d337530e-5b42-4c9b-9868-9b9320cb9f47)
+class=surprise
+
